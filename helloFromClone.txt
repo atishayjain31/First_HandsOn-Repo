@@ -1,3 +1,7 @@
 Hello from Cloned Repo
 
 Hello this time from master Hello again from Testing branch
+
+This line is used for 
+using git stash 
+and git pop.
